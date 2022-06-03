@@ -1,3 +1,29 @@
 {
-"hard skills":"...",
-"soft_skills":"..."
+    "SOFT SKILLS":
+    "Communication skills; \
+    Teamwork skills; \
+    self-organization",
+    "HARD SKILLS":
+    "Software Testing Theory; \
+    Basic concepts and features of client-server architecture; \
+    General understanding of HTTP request and response structures; \
+    General understanding of JSON, XML structures; \
+    API Testing with Postman; \
+    Working with logs; \
+    Sniffing http web traffic with Charles and Fiddler; \
+    Work with Dev Tools of web browsers (Google Chrome, FireFox); \
+    Work with VPN; \
+    Mobile testing (work with XCode and Android Studio); \
+    ADB (android device management); \
+    Setting up proxy and VPN on iOS and Android; \
+    Interception (sniffing) of mobile traffic via Charles and Fiddler on iOS and Android; \
+    Command line (terminal) Linux (copy, create, view, move files on servers without a graphical interface); \
+    Basics of bash scripting, automation of routine tasks on the server; \
+    Access to remote servers; \
+    SQL (writing simple queries); \
+    Postgres database (installation, configuration and use); \
+    Non-relational database Redis (installation, configuration and use); \
+    Load Testing in Jmeter; \
+    General understanding of Scrum development methodology; \
+    Python (Learning the basics, creating a client-server application)"
+}
