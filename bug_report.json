@@ -1,11 +1,11 @@
 {
-"Bag_ID":0
-"Summary":"bagname",
-"Description":"",
-"Expected result":"",
-"Actual result":"",
-"Attachments":"",
-"Priority":3,
-"Severity":"Minor",
-"Status":"Closed"
+"Bag_ID": 0,
+"Summary": "bagname",
+"Description": "",
+"Expected result": "",
+"Actual result": "",
+"Attachments": "",
+"Priority": 3,
+"Severity": "Minor",
+"Status": "Closed"
 }
